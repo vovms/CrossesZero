@@ -1,0 +1,18 @@
+
+.workPlase{
+    background-color: lime;
+    margin: auto;
+    
+}
+
+.table{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.button {
+    height: 80px;
+    width: 80px;
+}

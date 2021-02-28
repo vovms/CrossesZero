@@ -1,0 +1,15 @@
+
+.div{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 9fr;
+    /* height: 50px; */
+}
+
+.header_name {
+    margin: auto;
+
+    font-style: italic;
+    font-weight:600;
+    font-size:200%;
+}
